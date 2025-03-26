@@ -6,16 +6,18 @@ I'm a Graphic Designer, currently attending Game Development at FIAP and longing
 </div>
 
 
-### 🤔 I can work with... 
 <div align="center">
+### 🤔 I can work with... 
+ <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30" height="30" margin="10"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30" margin="10"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30" margin="10"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg" alt="CSharp" width="30" height="30" margin="10"/>
+ </div>
 </div>
 
-<div>
-  <b>📫 How to reach me:</b>
+<div align="center">
+### 📫 How to reach me:
   <p>✉ email: leonardo.p.nunes@outlook.com</p>
 </div>
 
