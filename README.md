@@ -1,6 +1,6 @@
 <div align="center">
  <h1>Hello 👋 my name is Leo.</h1> 
- I'm a Graphic Designer, currently attending Game Development at FIAP and longing to become a QA soon.
+ I'm a Graphic Designer, currently attending Game Development at FIAP and longing to become a QA Intern soon.
  
  &nbsp;&nbsp;&nbsp;
  
@@ -20,6 +20,11 @@
   <h3>⚠ How to reach me:</h3>
    <p>✉: leonardo.p.nunes@outlook.com</p>
  </div>
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopnunes&theme=default)
+&nbsp;
+ [![card](https://github-readme-stats.vercel.app/api?username=leopnunes&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </div>
 
 <!--
@@ -38,7 +43,4 @@ Here are some ideas to get you started:
 -->
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopnunes&theme=default)
-&nbsp;
- [![card](https://github-readme-stats.vercel.app/api?username=leopnunes&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
