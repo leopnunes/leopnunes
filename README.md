@@ -7,7 +7,7 @@ I'm a Graphic Designer, currently attending Game Development at FIAP and longing
 
 
 <div align="center">
-### 🤔 I can work with... 
+ <h3>🤔 I can work with...</h3>
  <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30" height="30" margin="10"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30" margin="10"/>
@@ -17,7 +17,7 @@ I'm a Graphic Designer, currently attending Game Development at FIAP and longing
 </div>
 
 <div align="center">
-### 📫 How to reach me:
+ <h3>📫 How to reach me:</h3>
   <p>✉ email: leonardo.p.nunes@outlook.com</p>
 </div>
 
