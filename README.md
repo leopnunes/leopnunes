@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello 👋 My name is Leo.
+
+I'm a Graphic Designer, currently attending Game Development at FIAP and longing to become a QA soon.
+
+#Most Used Languages (or Markup Language)
+<p>HTML</p>
+<p>CSS</p>
+<p>JavaScript</p>
+<p>C#</p>
 
 <!--
 **leopnunes/leopnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
