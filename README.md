@@ -21,9 +21,9 @@
    <p>✉: leonardo.p.nunes@outlook.com</p>
  </div>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopnunes&theme=default)
-&nbsp;
  [![card](https://github-readme-stats.vercel.app/api?username=leopnunes&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ &nbsp;
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopnunes&theme=default)
  
 </div>
 
