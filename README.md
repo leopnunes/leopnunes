@@ -37,9 +37,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopnunes&theme=default)
-</div>
-<div>
+&nbsp;
  [![card](https://github-readme-stats.vercel.app/api?username=leopnunes&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
